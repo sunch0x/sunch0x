@@ -1,16 +1,14 @@
-## Hi there 👋
+# sunch0x
 
-<!--
-**sunch0x/sunch0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI-degen vibe coding**  
+Brain & skill gains in AI, crypto & coding.
 
-Here are some ideas to get you started:
+[Twitter](https://x.com/sunch0x) · [Telegram](https://t.me/sunch_exe) · [Website](https://sunch0x.dev) · [GitHub](https://github.com/sunch0x)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I’m into
+
+- AI agents, LLM tooling, vibe coding
+- Crypto analytics, infra, on-chain data
+- Backends, networking, Obsidian / Notion brains
